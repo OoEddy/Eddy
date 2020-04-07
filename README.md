@@ -20,6 +20,8 @@
 	<meta name="twitter:card" content="" />
 </head>
 <body>
+	<h1> Edwin Mutwiri</h1>
+	<H2> A Full-stack Developer </H2>
 	
 </body>
 </html>
